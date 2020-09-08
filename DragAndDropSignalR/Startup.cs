@@ -34,6 +34,7 @@ namespace DragAndDropSignalR
             services.AddSignalR();
 
             services.AddSingleton(new List<Quote>());
+            services.AddSingleton(new UserCount());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
