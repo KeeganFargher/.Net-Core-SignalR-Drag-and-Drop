@@ -1,1 +1,1 @@
-# .Net-Core-SignalR-Drag-and-Drop
+# .Net Core SignalR Drag and Drop
